@@ -1,0 +1,19 @@
+{
+"name": "samplejson",
+"version": "1.0.0",
+"description": "A sample package.json",
+"main": "node index.js",
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1",
+"start": "node index.js"
+},
+"engines": { "node": "10.5.0" },
+"repository": {
+"type": "git",
+"url": ""
+},
+"author": "Discord Bot Developments",
+"license": "MIT",
+"bugs": {
+"url": ""
+},
